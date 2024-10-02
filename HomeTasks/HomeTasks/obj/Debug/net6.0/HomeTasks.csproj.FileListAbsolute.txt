@@ -1,0 +1,15 @@
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\bin\Debug\net6.0\HomeTasks.exe
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\bin\Debug\net6.0\HomeTasks.deps.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\bin\Debug\net6.0\HomeTasks.runtimeconfig.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\bin\Debug\net6.0\HomeTasks.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\bin\Debug\net6.0\HomeTasks.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\obj\Debug\net6.0\HomeTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\obj\Debug\net6.0\HomeTasks.AssemblyInfoInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\obj\Debug\net6.0\HomeTasks.AssemblyInfo.cs
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\obj\Debug\net6.0\HomeTasks.csproj.CoreCompileInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\obj\Debug\net6.0\HomeTasks.sourcelink.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\obj\Debug\net6.0\HomeTasks.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\obj\Debug\net6.0\refint\HomeTasks.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\obj\Debug\net6.0\HomeTasks.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\obj\Debug\net6.0\HomeTasks.genruntimeconfig.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\HomeTasks\HomeTasks\obj\Debug\net6.0\ref\HomeTasks.dll

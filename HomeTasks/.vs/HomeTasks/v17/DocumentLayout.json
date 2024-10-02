@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\HomeTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{409317D5-9750-4B0C-A72E-94C654C218B8}|HomeTasks\\HomeTasks.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\hometasks\\hometasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409317D5-9750-4B0C-A72E-94C654C218B8}|HomeTasks\\HomeTasks.csproj|solutionrelative:hometasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\HomeTasks\\HomeTasks\\Program.cs",
+              "RelativeDocumentMoniker": "HomeTasks\\Program.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\HomeTasks\\HomeTasks\\Program.cs",
+              "RelativeToolTip": "HomeTasks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:46:55.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
